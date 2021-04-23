@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @romit-thete
+- 👋 Hi, I’m Romit!
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python, Django, DevOps Tools.
 - 💞️ I’m looking to collaborate on basic Python projects that will help grow my knowledge. 
