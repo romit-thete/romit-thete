@@ -11,7 +11,7 @@
 ---
 
 ### **📜 Checkout my profile on roadmap.sh**  
-[![roadmap.sh](https://roadmap.sh/card/wide/6772c31e70129741a82d1da4?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6772c31e70129741a82d1da4?variant=dark)](https://roadmap.sh/u/romitt)
 
 
 <!---
